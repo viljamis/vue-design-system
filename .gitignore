@@ -1,12 +1,8 @@
 .DS_Store
 .eslintcache
 node_modules/
-dist/assets/
-dist/app.css
-dist/system.css
-dist/index.html
-dist/docs/
-/test/unit/coverage/
+dist/
+test/unit/coverage/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
